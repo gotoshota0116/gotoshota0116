@@ -9,14 +9,14 @@
   <a href="https://github.com/gotoshota0116/gotoshota01116/">
     <img src="https://komarev.com/ghpvc/?username=gotoshota0116" alt="gotoshota0116" />
   </a>
-  <a href="https://github.com/yutkat">
+  <a href="https://github.com/gotoshota0116">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/yutkat">
+  <a href="http://qiita.com/shotagotot">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  <//qiita.com/shotagoto">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/shotagoto/contributions.svg" />
   </a>
 </p>
 <!--
