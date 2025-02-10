@@ -4,6 +4,21 @@
 - [X](https://x.com/gshota_0116)
 - [Qiita](https://qiita.com/shotagoto)
 - [Note](https://note.com/bright_eel583)
+
+<p align="left">
+  <a href="https://github.com/gotoshota0116/gotoshota01116/">
+    <img src="https://komarev.com/ghpvc/?username=gotoshota0116" alt="gotoshota0116" />
+  </a>
+  <a href="https://github.com/yutkat">
+    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/yutkat">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+  </a>
+  <//qiita.com/yutkat">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  </a>
+</p>
 <!--
 **gotoshota0116/gotoshota0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
