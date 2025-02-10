@@ -13,7 +13,7 @@
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/shotagotot">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/shotagoto/posts.svg" />
   </a>
   <//qiita.com/shotagoto">
     <img height="20" src="https://qiita-badge.apiapi.app/s/shotagoto/contributions.svg" />
