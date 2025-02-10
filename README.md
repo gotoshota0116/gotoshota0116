@@ -9,9 +9,6 @@
   <a href="https://github.com/gotoshota0116/gotoshota01116/">
     <img src="https://komarev.com/ghpvc/?username=gotoshota0116" alt="gotoshota0116" />
   </a>
-  <a href="https://github.com/gotoshota0116">
-    <img height="20" src="https://img.shields.io/github/followers/gotoshota0116?label=follow&logo=github&style=flat" />
-  </a>
   <a href="http://qiita.com/shotagotot">
     <img height="20" src="https://qiita-badge.apiapi.app/s/shotagoto/posts.svg" />
   </a>
