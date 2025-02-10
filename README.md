@@ -1,6 +1,6 @@
-# 　　　　　　　　　　Hello👋 I'm ごっちゃん!!🌞
+# 　　　　　　　　　　Hello👋, I'm ごっちゃん!!🌞
 
-## Connect with me
+### Connect with me
 - [X](https://x.com/gshota_0116)
 - [Qiita](https://qiita.com/shotagoto)
 - [Note](https://note.com/bright_eel583)
