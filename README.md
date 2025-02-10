@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Connect with me
+- [X](https://x.com/gshota_0116)
+- [Qiita](https://qiita.com/shotagoto)
+- [Note](https://note.com/bright_eel583)
 <!--
 **gotoshota0116/gotoshota0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
