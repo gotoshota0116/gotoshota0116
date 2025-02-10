@@ -1,4 +1,4 @@
-# Hello, I'm ごっちゃん!👋🌞
+# Hello, I'm ごっちゃん!!👋🌞
 
 ## Connect with me
 - [X](https://x.com/gshota_0116)
